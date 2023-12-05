@@ -1,0 +1,69 @@
+<script type='text/javascript'>
+ $(function() {
+   Dashing.gridsterLayout('[{"col":2,"row":2,"size_x":1,"size_y":1},{"col":4,"row":2,"size_x":1,"size_y":1},{"col":3,"row":2,"size_x":1,"size_y":1},{"col":1,"row":3,"size_x":1,"size_y":1},{"col":1,"row":2,"size_x":1,"size_y":1},{"col":1,"row":1,"size_x":1,"size_y":1},{"col":5,"row":3,"size_x":1,"size_y":1},{"col":2,"row":1,"size_x":3,"size_y":1},{"col":3,"row":3,"size_x":2,"size_y":1},{"col":5,"row":2,"size_x":2,"size_y":1},{"col":2,"row":3,"size_x":1,"size_y":1},{"col":5,"row":1,"size_x":1,"size_y":1}]')
+ });
+ </script>
+
+
+<% content_for :title do %>2531 dashboard<% end %>
+
+<div class="gridster">
+  <ul>
+
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+    <div data-id="my-trello-program" data-view="List" data-title="Programming"></div>
+      <i class="icon-trello icon-background"></i>
+    </li>
+
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+    <div data-id="my-trello-electrical" data-view="List" data-title="Electrical"></div>
+      <i class="icon-trello icon-background"></i>
+    </li>
+
+
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+    <div data-id="my-trello-cadcam" data-view="List" data-title="CAD-CAM"></div>
+      <i class="icon-trello icon-background"></i>
+    </li>
+
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="synergy" data-view="Meter" data-title="Daily Participation" data-height="200" data-width="200" data-min="0" data-max="100" data-suffix="%"></div>
+    </li>
+
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+    <div data-id="my-trello-fab" data-view="List" data-title="Fabrication"></div>
+      <i class="icon-trello icon-background"></i>
+    </li>
+ 
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-view="Image" data-image="/robohawkslogo.png"></div>
+    </li>
+
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-view="Image" data-image="/qrcode.png"></div>
+    </li>
+
+    <li data-row="1" data-col="1" data-sizex="3" data-sizey="1">
+      <div data-id="welcome" data-view="Text" data-title="Hello Team!" data-text="This is your shiny new dashboard." data-moreinfo="Stay tuned for more!" style="background-color:#8e44b6;"></div>
+    </li>
+
+    <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+      <div data-id="welcome" data-view="Text" data-title="Team Sustainability" data-text="Number of Batteries Recycled: 0" data-moreinfo="Tips to lower your carbon footprint coming soon!" style="background-color:#262626;"></div>
+    </li>
+
+    <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+       <div data-id="progress_bars" data-view="HotProgressBars" data-title="Project Completion" data-zebra="1" data-criticalsound="/mp3/critical.mp3">div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-view="Countdown" data-title="DAYS TO KICK-OFF:" data-end="January 6,2024"></div>
+    </li>
+
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="outboard" data-view="Outboard" data-title="Who's Where"></div>
+    </li>
+
+
+
+  </ul>
+
+</div>

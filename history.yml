@@ -1,0 +1,27 @@
+---
+valuation: "data: {\"current\":44,\"last\":66,\"id\":\"valuation\",\"updatedAt\":1701732089912}\n\n"
+karma: "data: {\"current\":169445,\"last\":134330,\"id\":\"karma\",\"updatedAt\":1701732089913}\n\n"
+synergy: "data: {\"value\":\"67\",\"id\":\"synergy\",\"updatedAt\":1701732089913}\n\n"
+buzzwords: "data: {\"items\":[{\"label\":\"Enterprise\",\"value\":4},{\"label\":\"Exit
+  strategy\",\"value\":1},{\"label\":\"Leverage\",\"value\":20},{\"label\":\"Turn-key\",\"value\":6},{\"label\":\"Web
+  2.0\",\"value\":24},{\"label\":\"Paradigm shift\",\"value\":3},{\"label\":\"Synergy\",\"value\":27},{\"label\":\"Streamlininess\",\"value\":21},{\"label\":\"Pivoting\",\"value\":1}],\"id\":\"buzzwords\",\"updatedAt\":1701732089914}\n\n"
+convergence: "data: {\"points\":[{\"x\":258,\"y\":40},{\"x\":259,\"y\":33},{\"x\":260,\"y\":30},{\"x\":261,\"y\":21},{\"x\":262,\"y\":1},{\"x\":263,\"y\":42},{\"x\":264,\"y\":31},{\"x\":265,\"y\":31},{\"x\":266,\"y\":35},{\"x\":267,\"y\":22}],\"id\":\"convergence\",\"updatedAt\":1701732089915}\n\n"
+my-trello-board: "data: {\"items\":[{\"label\":\"Disassemble old robots\",\"value\":\"
+  \"}],\"id\":\"my-trello-board\",\"updatedAt\":1701654318974}\n\n"
+hot_progress_bars: "data: {\"title\":\"trying this\",\"progress_items\":{\"name\":\"barNAME\",\"progress\":24,\"critical\":10,\"warning\":25,\"localScope\":0},\"id\":\"hot_progress_bars\",\"updatedAt\":1701472581821}\n\n"
+progress_bars: "data: {\"title\":\"Progress\",\"progress_items\":[{\"name\":\"Duluth
+  Permission Slips\",\"progress\":24,\"critical\":10,\"warning\":25,\"localScope\":0},{\"name\":\"First
+  Registration\",\"progress\":98,\"critical\":99,\"warning\":0,\"localScope\":0},{\"name\":\"Safety
+  Video Watched\",\"progress\":75,\"critical\":100,\"warning\":66,\"localScope\":0}],\"id\":\"progress_bars\",\"updatedAt\":1701732055859}\n\n"
+outboard: "data: {\"values\":[{\"name\":\"Allie\",\"status\":\"in\",\"comment\":null,\"icon\":\"icon-star\"},{\"name\":\"Gabby\",\"status\":\"out\",\"comment\":\"
+  In tomorrow\",\"icon\":\"icon-remove\"},{\"name\":\"Gavin\",\"status\":\"out\",\"comment\":\"
+  Back next week\",\"icon\":\"icon-plane\"},{\"name\":\"Mr. Benson\",\"status\":\"in\",\"comment\":null,\"icon\":\"icon-star\"},{\"name\":\"Wyatt\",\"status\":\"in\",\"comment\":null,\"icon\":\"icon-star\"}],\"id\":\"outboard\",\"updatedAt\":1701732057988}\n\n"
+my-trello-again: "data: {\"items\":[{\"label\":\"Level Bed\",\"value\":\" \"},{\"label\":\"CAD
+  battery holder\",\"value\":\" \"},{\"label\":\"Print battery holder\",\"value\":\"
+  \"}],\"id\":\"my-trello-again\",\"updatedAt\":1701654319689}\n\n"
+my-trello-program: "data: {\"items\":[{\"label\":\"Program Swerve Drive\"},{\"label\":\"Dashboard
+  work\"}],\"id\":\"my-trello-program\",\"updatedAt\":1701731878752}\n\n"
+my-trello-cadcam: "data: {\"items\":[{\"label\":\"Level Bed\"},{\"label\":\"CAD battery
+  holder\"},{\"label\":\"Print battery holder\"}],\"id\":\"my-trello-cadcam\",\"updatedAt\":1701731879349}\n\n"
+my-trello-fab: "data: {\"items\":[{\"label\":\"Disassemble old robots\"}],\"id\":\"my-trello-fab\",\"updatedAt\":1701731879862}\n\n"
+my-trello-electrical: "data: {\"items\":[{\"label\":\"Fix swerve wiring\"}],\"id\":\"my-trello-electrical\",\"updatedAt\":1701731880436}\n\n"
